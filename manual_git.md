@@ -35,3 +35,4 @@
 
 *PS/ Обращайте внимание на пробелы, т.к для заголовоков и нумерованных списков - они необходимы*
 
+[Подробный справочник по Markdown от Microsoft](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
